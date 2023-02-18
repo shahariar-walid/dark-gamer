@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dark-gamer
-- 👀 I’m interested in Programming and Hacking
+- 👀 I’m interested in Programming and Web Application Penetration Testing.
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
